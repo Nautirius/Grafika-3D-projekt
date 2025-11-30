@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Sun",
+    "pos": [0,0,-350],
+    "vel": [0,0,0],
+    "mass": 1.989e25,
+    "density": 5515,
+    "color": [1,1,0.9,1],
+    "rotSpeed": -0.1,
+    "glow": true,
+    "texture": "textures/sun_texture_1.jpg"
+  },
+  {
+    "name": "Earth",
+    "pos": [5000,650,-350],
+    "vel": [0,0,-300],
+    "mass": 5.97219e22,
+    "density": 5515,
+    "rotSpeed": -2.0,
+    "texture": "textures/earth_texture_1.jpg"
+  },
+  {
+    "name": "Moon",
+    "pos": [4850,650,-200],
+    "vel": [-100,0,-400],
+    "mass": 5.97219e21,
+    "density": 5515,
+    "rotSpeed": 1.0,
+    "texture": "textures/moon_texture_1.jpg"
+  },
+  {
+    "name": "Jupiter",
+    "pos": [-5000,650,-350],
+    "vel": [0,100,300],
+    "mass": 5.97219e23,
+    "density": 5515,
+    "rotSpeed": -0.5,
+    "texture": "textures/jupiter_texture_1.jpg"
+  }
+]
