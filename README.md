@@ -106,3 +106,11 @@ Przykładowa lista obiektów:
   }
 ]
 ```
+
+## Wykorzystane tekstury:
+* https://www.solarsystemscope.com/textures/
+* https://svs.gsfc.nasa.gov/4720/
+* https://shadedrelief.com/natural3/ne3_data/8192/textures/1_earth_8k.jpg
+* https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_2k_sun.jpg
+* https://www.reddit.com/r/Ultrakill/comments/xysymo/milky_way_skybox_i_made_put_it_in_your/
+
