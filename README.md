@@ -38,7 +38,7 @@ Projekt tworzony był w środowisku MS Visual Studio. Na repozytorium dostępny 
 
 ---
 
-## Wykorzystane biblioteki (NuGet)
+## Wykorzystane biblioteki (NuGet):
 
 * glew.v140
 * glm
@@ -54,7 +54,7 @@ Projekt tworzony był w środowisku MS Visual Studio. Na repozytorium dostępny 
 
 W projekcie wykorzystany jest model oświetlenia Phonga.
 
-Planety oświetlone są światłem gwiazdy.
+Planety oświetlone są światłem gwiazdy (dla uzyskania efektu "świecenia" użyto blendingu).
 
 ---
 
